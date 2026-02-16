@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lascuoladeidatidev/static/css/main.e6c13ad2.css",
+    "main.js": "/lascuoladeidatidev/static/js/main.c91c8c4b.js",
+    "static/js/453.932019e6.chunk.js": "/lascuoladeidatidev/static/js/453.932019e6.chunk.js",
+    "index.html": "/lascuoladeidatidev/index.html",
+    "main.e6c13ad2.css.map": "/lascuoladeidatidev/static/css/main.e6c13ad2.css.map",
+    "main.c91c8c4b.js.map": "/lascuoladeidatidev/static/js/main.c91c8c4b.js.map",
+    "453.932019e6.chunk.js.map": "/lascuoladeidatidev/static/js/453.932019e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c91c8c4b.js"
+  ]
+}
